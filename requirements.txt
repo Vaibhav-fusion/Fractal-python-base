@@ -1,0 +1,3 @@
+# Add runtime dependencies here, one per line.
+# Example: requests==2.31.0
+# The current `fractal.py` uses only the standard library, so no packages are required.
